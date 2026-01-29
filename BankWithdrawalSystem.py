@@ -1,9 +1,3 @@
-# try:
-#     pass
-# except Exception:
-#     pass
-
-
 
 balance = 100000  # initial balance
 
